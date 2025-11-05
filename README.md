@@ -1,4 +1,6 @@
-## 🌱 Federico González Lage
+## ¡Welcome to _Federico González Lage´s_ portfolio...!✍🏻💻☕
+
+_Hi, nice to meet you 🫱🏻‍🫲🏻_
 
 I’m a Software Engineering student from Uruguay and a Junior Full Stack Developer in training, passionate about how algorithms allow us to understand and model reality.
 
