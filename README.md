@@ -8,7 +8,7 @@ Although my career path began far from IT, I found in programming the discipline
 
 What fascinates me most about programming is how computers let us simulate and predict — the closer our models get to the real world, the deeper our understanding becomes. I see code not just as a tool, but as a language to analyze, improve, and simulate complex systems, whether it’s personal finance, data patterns, or even human behavior.
 
-I’m deeply interested in data analysis and how feedback from software can help us make better, evidence-based decisions — including how to improve ourselves.
+I’m deeply interested in data analysis and how feedback from software can help us make better, evidence-based decisions — including how to improve ourselves. Still, i have a personal homework pending about deeply diving into cybersecurity, both because of curiosity as same as probably an almost basic need.
 
 <br>
 
