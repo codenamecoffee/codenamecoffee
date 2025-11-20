@@ -63,14 +63,14 @@ Other: \
 | Project                                                                                                                              | Description                                                                                                                                     | Tech Stack                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | [**GestorGastos_FullStack**](https://github.com/codenamecoffee/GestorGastos_FullStack)                                               | Personal finance manager built with ASP.NET Core + Angular. Implements transaction tracking, categories, image storage, and responsive widgets. | C# · ASP.NET Core · Angular · SQL Server          |
-| [**Movie_Shop_Azure_DevOps**](https://github.com/codenamecoffee/Movie_Shop_Azure_Devops)                                             | Core repository used during Endava’s School of Software Engineering. Includes APIs, automated tests, and Azure DevOps pipelines.                | Python · FastAPI · Pytest · Docker · Azure DevOps |
+| [**Technical Interview Algorithm Practice**](https://github.com/codenamecoffee/SmoothGallery)                                                                 | Structured repository for algorithm training, including basics → intermediate → advanced problems, random challenge generator, and progressive interview prep.                                                                           | Python · Algorithms · Data Structures                               |
+| [**Movie_Shop_Azure_DevOps**](https://github.com/codenamecoffee/Movie_Shop_Azure_Devops)                                             | Core repository used during Endava’s School of Software Engineering 2025. Includes APIs, automated tests, and Azure DevOps pipelines.                | Python · FastAPI · Pytest · Docker · Azure DevOps |
 | [**Azure_Container_Apps_Terraform_Infrastructure**](https://github.com/codenamecoffee/Azure_Container_Apps_Terraform_Infrastructure) | Infrastructure repository that consumes the Terraform module to automate deployments on Azure Container Apps.                                   | Terraform · Azure · DevOps                        |
 | [**Azure_Container_Apps_Terraform_Module**](https://github.com/codenamecoffee/Azure_Container_Apps_Terraform_Module)                 | Terraform module for Azure Container App environments, reusable and CI/CD-ready.                                                                | Terraform · Azure                                 |
 | [**Gameshelf_Docker_Compose**](https://github.com/codenamecoffee/Gameshelf_Docker_Compose)                                           | CRUD app to manage a personal game library using containers for full stack integration.                                                         | Python · FastAPI · PostgreSQL · Docker            |
 | [**ReduxHangman**](https://github.com/codenamecoffee/ReduxHangman)                                                                 | Classic Hangman game built with React and enhanced using Redux Toolkit for state management.                                                                            | React · Redux · CSS · HTML                               |
-| [**SmoothGallery**](https://github.com/codenamecoffee/SmoothGallery)                                                                 | Minimalist image gallery built with HTML, CSS, and jQuery animations.                                                                           | jQuery · CSS · HTML                               |
 
-_(Other repositories include smaller frontend exercises and Python/Linux fundamentals for continuous learning.)_
+_(Other repositories include smaller frontend experiments, jQuery-based UI mini-projects like SmoothGallery, and Python/Linux fundamentals as part of continuous learning.)_
 
 <br>
 
@@ -85,6 +85,8 @@ _(Other repositories include smaller frontend exercises and Python/Linux fundame
 - Consolidating DevOps workflows with GitHub Projects, CI/CD pipelines, and containerization.
 
 - Building a professional portfolio that reflects steady, meaningful growth
+
+- Improving algorithmic thinking through structured practice using HackerRank and my dedicated Algorithm Training repository.
 
 <br>
 
