@@ -112,5 +112,3 @@ I’m always curious about how data, code, and human behavior intersect — and 
 ## 📫 Connect with Me 👋
 
 🌐 [LinkedIn](https://www.linkedin.com/in/fglmr95/)
-
-📧 fglmr95@gmail.com
